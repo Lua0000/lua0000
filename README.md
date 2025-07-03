@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Seja bem-vindo ao meu perfil!
 
-<!--
-**Lua0000/lua0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Sobre mim
 
-Here are some ideas to get you started:
+Pode me chamar de Gui, tenho 21 anos e sou entusiasta do mundo da programação e desenvolvimento de software.  
+Atualmente, estou no 3º semestre do curso de Ciências da Computação na UNIFACS.  
+Estou sempre em busca de novos aprendizados e desafios no universo da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Status
+
+![Lua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lua0000&show_icons=true&theme=radical)
+
+---
+
+## 💻 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lua0000&layout=compact&theme=radical)
+
+---
+
+## 🚀 Tecnologias
+
+• MySQL • Node.js • React.js • PyQt • Tkinter • Nmap • Wireshark • Burp Suite
