@@ -46,13 +46,12 @@
   <img align="center" title="Lua" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" title="Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <br><br>
+ 
 
   <img align="center" title="HTML" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="JavaScript" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <br><br>
 
   <img align="center" title="Git" height="39" width="52" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" title="Linux" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
