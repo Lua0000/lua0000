@@ -21,7 +21,6 @@
 
 *“Turning complex manual processes into elegant automated code.”*
 
----
 
 ## 📫 Contact
  
@@ -35,7 +34,7 @@
   </a>
 </div>
 
----
+
 
 ## 🚀 Technologies
 
@@ -59,7 +58,7 @@
 
 </div>
 
----
+
 
 ## 📊 Stats
 
