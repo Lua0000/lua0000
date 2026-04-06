@@ -10,6 +10,7 @@
 **Hi there, I'm Gui** 👋  
 
 **Computer Science student**
+**Future programming teacher**
 
 ✨ **Currently:** Focused on mastering C and building a strong programming foundation.
 
