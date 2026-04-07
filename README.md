@@ -13,7 +13,7 @@
 
 ✨ **Currently:** Focused on mastering C and building a strong programming foundation.
 
-💾 **Stack:** C, C++, Lua, Python, HTML, CSS, JavaScript, Git, Linux, SQL.
+💾 **Stack:** C, C++, Java, Python, HTML, CSS, JavaScript, Git, Linux, SQL.
 
 🗡️ **Goal:** Become a low-level and high-performance software developer.
 
