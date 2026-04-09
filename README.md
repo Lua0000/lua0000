@@ -65,4 +65,4 @@
 
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=lua0000&custom_title=GitHub+Stats&theme=default)](https://github.com/lua0000)
 
-[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=lua0000&theme=default)](https://github.com/lua0000)
+[![GitHub Streak](https://github-stats-ruby.vercel.app/?user=lua0000&theme=default)](https://github.com/lua0000)
