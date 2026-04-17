@@ -2,7 +2,7 @@
 <h3 align="center"><i>"Out of your vulnerabilities will come your strength."</i></h3>
 <h6 align="center">Sigmund Freud</h6>
 <br>
-<img align="right" src="https://pjgcreations.co.uk/wp-content/uploads/2017/09/SimCoupe-Debugger-Step-Over.gif" width="400"/>
+<img align="right" src="https://pjgcreations.co.uk/wp-content/uploads/2017/09/SimCoupe-Debugger-Step-Over.gif" width="300"/>
 
 **Hi there, I'm Gui** 👋  
 **Computer Science student**  
