@@ -23,17 +23,21 @@
 </div>
 
 ## 🚀 Programming languages and technologies
-<div style="display: inline-block"><br>
-  <img align="center" title="C" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" title="Go" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" title="Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" title="HTML" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="JavaScript" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="Git" height="39" width="52" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" title="Linux" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" title="SQL" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+## 🚀 Programming languages and technologies
+
+<table border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td><img title="C" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></td>
+    <td><img title="Go" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></td>
+    <td><img title="Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+    <td><img title="HTML" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+    <td><img title="CSS" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+    <td><img title="JavaScript" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
+    <td><img title="Git" height="39" width="52" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></td>
+    <td><img title="Linux" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></td>
+    <td><img title="SQL" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
+  </tr>
+</table>
 
 ## 📊 Stats
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=lua0000&custom_title=GitHub+Stats&theme=default)](https://github.com/lua0000)
