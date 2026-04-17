@@ -6,10 +6,10 @@
 
 **Hi there, I'm Gui** 👋  
 **Computer Science student**  
-✨ **Currently:** Focused on mastering C and building a strong programming foundation.  
+✨ **Currently:** Building a strong programming foundation.
 💾 **Stack:** C, Go, Python, JavaScript, Git, Linux, SQL.  
 🗡️ **Goal:** Become a low-level and high-performance software developer.  
-💬 **Let's talk about:** C programming, Linux, problem-solving, and real-world projects.  
+💬 **Let's talk about:** C, Python & GO programming, Linux, problem-solving, and real-world projects.  
 *"Turning complex manual processes into elegant automated code."*
 
 ## 📫 Contact
