@@ -23,7 +23,6 @@
 </div>
 
 ## 🚀 Programming languages and technologies
-## 🚀 Programming languages and technologies
 
 <table border="0" cellspacing="0" cellpadding="8">
   <tr>
