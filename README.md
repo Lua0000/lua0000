@@ -13,7 +13,7 @@
 
 ✨ **Currently:** Focused on mastering C and building a strong programming foundation.
 
-💾 **Stack:** C, C++, Python, HTML, CSS, JavaScript, Git, Linux, SQL.
+💾 **Stack:** C, Go, Python, JavaScript, Git, Linux, SQL.
 
 🗡️ **Goal:** Become a low-level and high-performance software developer.
 
@@ -41,7 +41,7 @@
 <div style="display: inline_block"><br>
 
   <img align="center" title="C" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" title="C++" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" title="Go" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <!--
   <img align="center" title="Lua" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" title="Java" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
