@@ -24,19 +24,16 @@
 
 ## 🚀 Programming languages and technologies
 
-<table border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td><img title="C" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></td>
-    <td><img title="Go" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></td>
-    <td><img title="Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
-    <td><img title="HTML" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-    <td><img title="CSS" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-    <td><img title="JavaScript" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
-    <td><img title="Git" height="39" width="52" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></td>
-    <td><img title="Linux" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></td>
-    <td><img title="SQL" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
-  </tr>
-</table>
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 ## 📊 Stats
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=lua0000&custom_title=GitHub+Stats&theme=default)](https://github.com/lua0000)
